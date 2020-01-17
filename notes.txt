@@ -1,3 +1,4 @@
 notes on c++.
 also notes on ubuntu.
+and notes on git.
 
