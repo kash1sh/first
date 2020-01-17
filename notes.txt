@@ -1,1 +1,3 @@
 notes on c++.
+also notes on ubuntu.
+
